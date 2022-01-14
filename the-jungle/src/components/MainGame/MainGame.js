@@ -8,6 +8,8 @@ const MainGame = () => (
   </div>
 );
 
+const OptionOne = {}
+
 MainGame.propTypes = {};
 
 MainGame.defaultProps = {};
